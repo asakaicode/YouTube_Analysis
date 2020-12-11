@@ -1,0 +1,6 @@
+framework module Pods_YouTube_Analysis {
+  umbrella header "Pods-YouTube_Analysis-umbrella.h"
+
+  export *
+  module * { export * }
+}
